@@ -1,1 +1,1 @@
-# muskatos_rust
+# MuskatOS Rust
