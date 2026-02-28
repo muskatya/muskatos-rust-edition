@@ -4,3 +4,6 @@ MuskatOS Rust Edition is a port of MuskatOS to Rust. At the moment, MOSRE doesn'
 - Future Memu support and all functions of the original MuskatOS
 # Installation guide
 Download the executable, run it, and log in as the default root user (default password: root).
+# What's new:
+- Made the shell look like the one in the latest original versions
+- Added a user system. Users are no longer created at startup — the root user is now pre-created (just like in original versions 1.0–1.1.2 I believe). User data isn't saved anywhere yet; planning to store it in JSON in the future
